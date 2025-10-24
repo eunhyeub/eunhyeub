@@ -49,7 +49,4 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 ---
 
 ## 🎓 Education
-![Eulji University](https://img.shields.io/badge/을지대학교(성남)-의료IT학과-0056A1?style=for-the-badge&logo=googleclassroom&logoColor=white)
-<sub>
-4년제 학사 과정
-</sub>
+- **2025.02** - 을지대학교 의료IT학과 졸업
