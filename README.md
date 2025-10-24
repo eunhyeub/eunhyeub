@@ -9,7 +9,7 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 <br/><br/>
 
 > 💼 **Currently interning at [Bioconnect](https://bioconnect.co.kr)**  
-> *Full Stack Developer Intern · 2025.01 ~ Present*
+> *Full Stack Developer Intern · 2025.06 ~ Present*
 
 ---
 
