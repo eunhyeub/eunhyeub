@@ -2,26 +2,37 @@
 
 <small>
 열정적으로 배우고 성장하는 개발자 김은혜 입니다. <br/>
-Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
+Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며  
 끊임없이 배우고 더 나은 코드를 고민하는 개발자로 성장하고 있습니다.
 </small>
 
-[![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ## ✨ Tech Stack ✨
+
+### 🖥 Back-end
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📚 Studying 📚
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white)
-![REST%20API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0FFF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<sub>
+💡 AWS와 Docker로 배포 및 인프라 이해도를 높이고 있으며,  
+Postman과 CI/CD를 통해 협업 효율과 자동화를 학습 중입니다.
+</sub>
 
 ---
 
@@ -36,17 +47,23 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 
 ---
 
+## 🏅 Certificates
+- 🗓️ **2025.04** — SQL개발자 (SQLD) · 한국데이터베이스진흥센터
+- 🗓️ **2024.03** — 정보처리기사 · 한국산업인력공단 · *필기합격*
+- 🗓️ **2021.09** — 컴퓨터활용능력 2급 · 대한상공회의소
+
+---
+
+## 🎓 Education
+- **2025.02** — 을지대학교 (성남) 의료IT학과 *(4년제 졸업)*
+
+---
+
 ## 📬 Contact 📬
 [![Gmail](https://img.shields.io/badge/dmsgprla55@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmsgprla55@naver.com)
 
 ---
 
-## 🏅 Certificates
-- 🗓️ **2025.04** — SQL개발자 (SQLD) · 한국데이터베이스진흥센터 · *최종합격*
-- 🗓️ **2024.03** — 정보처리기사 · 한국산업인력공단 · *필기합격*
-- 🗓️ **2021.09** — 컴퓨터활용능력 2급 · 대한상공회의소 · *최종합격*
-
----
-
-## 🎓 Education
-- **2025.02** - 을지대학교 의료IT학과 졸업
+## 📊 GitHub Stats
+[![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhyeub&layout=compact&theme=tokyonight)
