@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Eunhye!
 
 <small>
-열정적으로 배우고 성장하는 개발자 김은혜 입니다. <br/>
+열정적으로 배우고 성장하는 신입개발자 **김은혜** 입니다. <br/>
 Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며  
 끊임없이 배우고 더 나은 코드를 고민하는 개발자로 성장하고 있습니다.
 </small>
@@ -65,6 +65,7 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 ---
 
 ## 📊 GitHub Stats
-[![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhyeub&layout=compact&theme=tokyonight)
-
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunhyeub&layout=compact&theme=default" />
+</p>
