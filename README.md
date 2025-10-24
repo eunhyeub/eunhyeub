@@ -62,3 +62,5 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 ## 📊 GitHub Stats
 [![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunhyeub&layout=compact&theme=tokyonight)
+[![Eunhye's productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eunhyeub&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
