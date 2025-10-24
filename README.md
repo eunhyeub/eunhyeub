@@ -25,14 +25,8 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 
 ## 📚 Studying 📚
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0FFF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<sub>
-💡 AWS와 Docker로 배포 및 인프라 이해도를 높이고 있으며,  
-Postman과 CI/CD를 통해 협업 효율과 자동화를 학습 중입니다.
-</sub>
 
 ---
 
@@ -44,6 +38,7 @@ Postman과 CI/CD를 통해 협업 효율과 자동화를 학습 중입니다.
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -55,7 +50,7 @@ Postman과 CI/CD를 통해 협업 효율과 자동화를 학습 중입니다.
 ---
 
 ## 🎓 Education
-- **2025.02** — 을지대학교 (성남) 의료IT학과 *(4년제 졸업)*
+- **2025.02** — 을지대학교 의료IT학과 *(졸업)*
 
 ---
 
