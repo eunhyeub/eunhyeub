@@ -42,15 +42,9 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 ---
 
 ## 🏅 Certificates
-![SQLD](https://img.shields.io/badge/SQL%20Developer(SQLD)-한국데이터베이스진흥센터-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-한국산업인력공단-6DB33F?style=for-the-badge&logo=googlesheets&logoColor=white)
-![컴퓨터활용능력2급](https://img.shields.io/badge/컴퓨터활용능력2급-대한상공회의소-F24E1E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-<sub>
-📅 SQLD (2025.04, 최종합격)  
-📅 정보처리기사 (2024.03, 필기합격)  
-📅 컴퓨터활용능력 2급 (2021.09, 최종합격)
-</sub>
+- 🗓️ **2025.04** — SQL개발자 (SQLD) · 한국데이터베이스진흥센터 · *최종합격*
+- 🗓️ **2024.03** — 정보처리기사 · 한국산업인력공단 · *필기합격*
+- 🗓️ **2021.09** — 컴퓨터활용능력 2급 · 대한상공회의소 · *최종합격*
 
 ---
 
