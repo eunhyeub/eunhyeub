@@ -1,8 +1,10 @@
 ## 👋 Hi there, I'm Eunhye!
 
+<small>
 열정적으로 배우고 성장하는 개발자 김은혜 입니다.  
 Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 끊임없이 배우고 더 나은 코드를 고민하는 개발자로 성장하고 있습니다.
+</small>
 ---
 
 ## ✨ Tech Stack ✨
@@ -34,4 +36,4 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 ---
 
 ## 📬 Contact 📬
-[![Gmail](https://img.shields.io/badge/eunhyeub@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eunhyeub@gmail.com)
+[![Gmail](https://img.shields.io/badge/eunhyeub@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmsgprla55@naver.com)
