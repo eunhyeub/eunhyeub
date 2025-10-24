@@ -6,8 +6,7 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 끊임없이 배우고 더 나은 코드를 고민하는 개발자로 성장하고 있습니다.
 </small>
 
-<br/>
-[![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Eunhye's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunhyeub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Tech Stack ✨
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
