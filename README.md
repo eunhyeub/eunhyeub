@@ -54,11 +54,6 @@ Java와 Spring Boot로 백엔드를, React로 프론트를 구현하며
 
 ---
 
-## 🎓 Education
-- **2025.02** — 을지대학교 의료IT학과 *(졸업)*
-
----
-
 ## 📬 Contact 📬
 [![Gmail](https://img.shields.io/badge/dmsgprla55@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmsgprla55@naver.com)
 
